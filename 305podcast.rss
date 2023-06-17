@@ -45,9 +45,11 @@
       <itunes:duration>1079</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item> -->
+    <!-- Episodes -->
+    <!-- Season 2 -->
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>425</itunes:episode>
+      <itunes:episode>25</itunes:episode>
       <itunes:season>2</itunes:season>
       <title>S02 EP25 - Razzbowski</title>
       <description>
@@ -58,144 +60,81 @@
         type="audio/mpeg" 
         url="https://www.305podcast.com/podcast/episodes/season2/ep25.mp3"
       />
-      <guid>aae20190606</guid>
-      <pubDate>Tue, 07 May 2019 12:00:00 GMT</pubDate>
-      <itunes:duration>1024</itunes:duration>
+      <guid>305pods2e25</guid>
+      <pubDate>Thu, 03 Dev 2021 18:58:00 GMT</pubDate>
+      <itunes:duration>5258</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>24</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP03 Bouldering Around Boulder</title>
+      <title>S02 EP24 - Bijuu Mike Returns</title>
       <description>
-        We explore fun walks to climbing areas about the beautiful Colorado city of Boulder.
-      </description>
-      <itunes:image
-        href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg"
-      />
-      <link>href="http://example.com/podcasts/everything/</link>
-      <enclosure 
-        length="5650889" 
-        type="video/mp4" 
-        url="http://example.com/podcasts/boulder.mp4"
-      />
-      <guid>aae20190530</guid>
-      <pubDate>Tue, 30 Apr 2019 13:00:00 EST</pubDate>
-      <itunes:duration>3627</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP02 Caribou Mountain, Maine</title>
-      <description>
-        Put your fitness to the test with this invigorating hill climb.
-      </description>
-      <itunes:image
-        href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg"
-      />
-      <enclosure 
-        length="5650889"
-        type="audio/x-m4v" 
-        url="http://example.com/podcasts/everything/caribou.m4v"
-      />
-      <guid>aae20190523</guid>
-      <pubDate>Tue, 23 May 2019 02:00:00 -0700</pubDate>
-      <itunes:duration>2434</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP01 Stawamus Chief</title>
-      <description>
-        We tackle Stawamus Chief outside of Vancouver, BC and you should too!
+        Interview with Bijuu Mike from the 12 hour charity stream for suicide prevention.
       </description>
       <enclosure
-        length="498537" 
+        length="101005395" 
         type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+        url="https://www.305podcast.com/podcast/episodes/season2/ep24.mp3"
       />
-      <guid>aae20190516</guid>
-      <pubDate>2019-02-16T07:00:00.000Z</pubDate>
-      <itunes:duration>13:24</itunes:duration>
+      <guid>305pods2e24</guid>
+      <pubDate>Wed, 02 Dev 2021 19:00:00 GMT</pubDate>
+      <itunes:duration>6312</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP04 Kuliouou Ridge Trail</title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>S02 EP23 - YandereDev</title>
       <description>
-        Oahu, Hawaii, has some picturesque hikes and this is one of the best!
+        Interview with YandereDev from the 12 hour charity stream for suicide prevention.
       </description>
       <enclosure
-        length="498537" 
+        length="78557011" 
         type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+        url="https://www.305podcast.com/podcast/episodes/season2/ep23.mp3"
       />
-      <guid>aae20190509/<guid>
-      <pubDate>Tue, 27 Nov 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>929</itunes:duration>
+      <guid>305pods2e23</guid>
+      <pubDate>Tue, 01 Dev 2021 19:00:00 GMT</pubDate>
+      <itunes:duration>4909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+    </item>
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>S02 EP23 - Druelbozo and an Ode to XXXTENTACION</title>
+      <description>
+        Interview with Yandere Simulator MVP and 3D Modeller Druelbozo, starting with an ode to XXXTENTACION.
+      </description>
+      <enclosure
+        length="93838921" 
+        type="audio/mpeg" 
+        url="https://www.305podcast.com/podcast/episodes/season2/ep22.mp3"
+      />
+      <guid>305pods2e22</guid>
+      <pubDate>Thu, 18 Jun 2020 19:00:00 GMT</pubDate>
+      <itunes:duration>5828</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP03 Blood Mountain Loop</title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>S02 EP21 - Only Wednesday</title>
       <description>
-        Hiking the Appalachian Trail and Freeman Trail in Georgia
+        Interview with Yandere Simulator MVP, musician, and trombonist Only Wednesday
       </description>
-      <enclosure 
-        length="498537" 
+      <enclosure
+        length="78557011" 
         type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
+        url="https://www.305podcast.com/podcast/episodes/season2/ep21.mp3"
       />
-      <guid>aae20190502</guid>
-      <pubDate>Tue, 23 Oct 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>1440</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP02 Garden of the Gods Wilderness</title>
-      <description>
-        Wilderness Area Garden of the Gods in Illinois is a delightful spot for 
-        an extended hike.
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190425</guid>
-      <pubDate>Tue, 18 Sep 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>839</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP01 Upper Priest Lake Trail to Continental Creek Trail</title>
-      <description>
-        We check out this powerfully scenic hike following the river in the Idaho
-        Panhandle National Forests.
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190418a</guid>
-      <pubDate>Tue, 14 Aug 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>1399</itunes:duration>
+      <guid>305pods2e21</guid>
+      <pubDate>Thu, 18 Jun 2020 19:00:00 GMT</pubDate>
+      <itunes:duration>4909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
