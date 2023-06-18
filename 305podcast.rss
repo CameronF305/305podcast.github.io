@@ -137,5 +137,23 @@
       <itunes:duration>8054</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <title>EP20 - Yandere Simulator (feat. AMZE)</title>
+      <description>
+        CameronF305 and special guest AMZE discuss the development of Yandere Simulator from a unique perspective.
+      </description>
+      <enclosure
+        length="56192521" 
+        type="audio/mpeg" 
+        url="https://www.305podcast.com/podcast/episodes/season2/ep20.mp3"
+      />
+      <guid>305pods2e20</guid>
+      <pubDate>Thu, 04 Jun 2020 19:00:00 GMT</pubDate>
+      <itunes:duration>4441</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
