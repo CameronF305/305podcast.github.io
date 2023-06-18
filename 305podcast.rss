@@ -164,6 +164,7 @@
     <!-- Season 1 -->
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.305podcast.com/branding/season1/S1Logog.png" />
       <itunes:episode>17</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>EP17 - Boogie2988 and SoCal Christ (Fiverr Jesus) [305 Podcast @ VidCon 2019]</title>
@@ -183,6 +184,7 @@
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.305podcast.com/branding/season1/S1Logog.png" />
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>EP16 - NetNobody, BoyInABand, and Lance Stewart [305 Podcast @ VidCon 2019]</title>
@@ -202,6 +204,7 @@
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.305podcast.com/branding/season1/S1Logog.png" />
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>EP15 - McJuggerNuggets, KidBehindACamera, and BlastphamousHD [305 Podcast @ VidCon 2019]</title>
