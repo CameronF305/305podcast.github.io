@@ -49,9 +49,9 @@
     <!-- Season 2 -->
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>25</itunes:episode>
+      <itunes:episode>6</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP25 - Razzbowski</title>
+      <title>EP25 - Razzbowski</title>
       <description>
         Interview with Razzbowski from the 12 hour charity stream for suicide prevention.
       </description>
@@ -61,15 +61,15 @@
         url="https://www.305podcast.com/podcast/episodes/season2/ep25.mp3"
       />
       <guid>305pods2e25</guid>
-      <pubDate>Thu, 03 Dev 2021 18:58:00 GMT</pubDate>
+      <pubDate>Thu, 03 Dec 2021 18:58:00 GMT</pubDate>
       <itunes:duration>5258</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>24</itunes:episode>
+      <itunes:episode>5</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP24 - Bijuu Mike Returns</title>
+      <title>EP24 - Bijuu Mike Returns</title>
       <description>
         Interview with Bijuu Mike from the 12 hour charity stream for suicide prevention.
       </description>
@@ -79,15 +79,15 @@
         url="https://www.305podcast.com/podcast/episodes/season2/ep24.mp3"
       />
       <guid>305pods2e24</guid>
-      <pubDate>Wed, 02 Dev 2021 19:00:00 GMT</pubDate>
+      <pubDate>Wed, 02 Dec 2021 19:00:00 GMT</pubDate>
       <itunes:duration>6312</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>23</itunes:episode>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP23 - YandereDev</title>
+      <title>EP23 - YandereDev</title>
       <description>
         Interview with YandereDev from the 12 hour charity stream for suicide prevention.
       </description>
@@ -97,15 +97,15 @@
         url="https://www.305podcast.com/podcast/episodes/season2/ep23.mp3"
       />
       <guid>305pods2e23</guid>
-      <pubDate>Tue, 01 Dev 2021 19:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2021 19:00:00 GMT</pubDate>
       <itunes:duration>4909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
         <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>22</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP23 - Druelbozo and an Ode to XXXTENTACION</title>
+      <title>EP22 - Druelbozo and an Ode to XXXTENTACION</title>
       <description>
         Interview with Yandere Simulator MVP and 3D Modeller Druelbozo, starting with an ode to XXXTENTACION.
       </description>
@@ -121,20 +121,20 @@
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>21</itunes:episode>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>2</itunes:season>
-      <title>S02 EP21 - Only Wednesday</title>
+      <title>EP21 - Only Wednesday</title>
       <description>
         Interview with Yandere Simulator MVP, musician, and trombonist Only Wednesday
       </description>
       <enclosure
-        length="78557011" 
+        length="102793354" 
         type="audio/mpeg" 
         url="https://www.305podcast.com/podcast/episodes/season2/ep21.mp3"
       />
       <guid>305pods2e21</guid>
-      <pubDate>Thu, 18 Jun 2020 19:00:00 GMT</pubDate>
-      <itunes:duration>4909</itunes:duration>
+      <pubDate>Wed, 10 Jun 2020 19:00:00 GMT</pubDate>
+      <itunes:duration>8054</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
