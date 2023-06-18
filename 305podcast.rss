@@ -64,7 +64,7 @@
       <pubDate>Thu, 03 Dec 2021 18:58:00 GMT</pubDate>
       <itunes:duration>5258</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep25.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 02 Dec 2021 19:00:00 GMT</pubDate>
       <itunes:duration>6312</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep24.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -102,9 +102,9 @@
       <pubDate>Tue, 01 Dec 2021 19:00:00 GMT</pubDate>
       <itunes:duration>4909</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep23.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
-    <item>
+        <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>2</itunes:season>
@@ -121,7 +121,7 @@
       <pubDate>Thu, 18 Jun 2020 19:00:00 GMT</pubDate>
       <itunes:duration>5828</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep22.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -140,7 +140,7 @@
       <pubDate>Wed, 10 Jun 2020 19:00:00 GMT</pubDate>
       <itunes:duration>8054</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep21.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -159,7 +159,7 @@
       <pubDate>Thu, 04 Jun 2020 19:00:00 GMT</pubDate>
       <itunes:duration>4441</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season2/ep20.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <!-- Season 1 -->
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Sat, 14 Sep 2019 19:00:00 GMT</pubDate>
       <itunes:duration>468</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season1/ep17.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -198,7 +198,7 @@
       <pubDate>Sat, 20 Jul 2019 19:00:00 GMT</pubDate>
       <itunes:duration>606</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season1/ep16.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -217,7 +217,7 @@
       <pubDate>Wed, 17 Jul 2019 19:00:00 GMT</pubDate>
       <itunes:duration>539</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://www.305podcast.com/podcast/episodes/season1/ep15.mp3</link>
+      <link>https://www.cameronf305.com/</link>
     </item>
   </channel>
 </rss>
