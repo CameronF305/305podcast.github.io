@@ -155,5 +155,60 @@
       <itunes:duration>4441</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <!-- Season 1 -->
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>EP17 - Boogie2988 and SoCal Christ (Fiverr Jesus) [305 Podcast @ VidCon 2019]</title>
+      <description>
+        CameronF305 goes to VidCon 2019! In this special episode, Cameron speaks to Boogie2988, a YouTube veteran, and SoCal Christ, the viral creator on Fiverr who made waves after a popular appearance on a PewDiePie video.
+      </description>
+      <enclosure
+        length="7510557" 
+        type="audio/mpeg" 
+        url="https://www.305podcast.com/podcast/episodes/season1/ep17.mp3"
+      />
+      <guid>305pods1e17</guid>
+      <pubDate>Sat, 14 Sep 2019 19:00:00 GMT</pubDate>
+      <itunes:duration>468</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>EP16 - NetNobody, BoyInABand, and Lance Stewart [305 Podcast @ VidCon 2019]</title>
+      <description>
+        CameronF305 goes to VidCon 2019! In this special episode, Cameron speaks to NetNobody (formerly SkyDoesMinecraft), a YouTube pioneer, BoyInABand, a rapper from the UK, and Lance Stewart, a contoversial prank channel.
+      </description>
+      <enclosure
+        length="9713106" 
+        type="audio/mpeg" 
+        url="https://www.305podcast.com/podcast/episodes/season1/ep16.mp3"
+      />
+      <guid>305pods1e16</guid>
+      <pubDate>Sat, 20 Jul 2019 19:00:00 GMT</pubDate>
+      <itunes:duration>606</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>EP15 - McJuggerNuggets, KidBehindACamera, and BlastphamousHD [305 Podcast @ VidCon 2019]</title>
+      <description>
+        CameronF305 goes to VidCon 2019! In this special episode, Cameron speaks to McJuggerNuggets, KidBehindACamera, and BlastphamousHD.
+      </description>
+      <enclosure
+        length="9713106" 
+        type="audio/mpeg" 
+        url="https://www.305podcast.com/podcast/episodes/season1/ep15.mp3"
+      />
+      <guid>305pods1e15</guid>
+      <pubDate>Wed, 17 Jul 2019 19:00:00 GMT</pubDate>
+      <itunes:duration>539</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
